@@ -1,0 +1,2 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,PerfstackController,GetPerfstackUrl,HttpPost,None,no,Lib\SolarWinds.Orion.NetMan.Shared.Ui.Orion.Integration.WebApi\Controllers\PerfstackController.cs,24,31,579d902e65a9eea3347373a9f035b45be687471ff885e8a72361d3eb0c2433db,,

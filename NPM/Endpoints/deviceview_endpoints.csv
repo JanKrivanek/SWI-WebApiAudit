@@ -1,0 +1,2 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,StencilsController,GetDeviceLayout,HttpGet,None,no,Web2\SolarWinds.Orion.DeviceView.WebApi\Controllers\StencilsController.cs,23,49,423964b888a5dfd981726da8b3961438af9aa7fe61ac272780ad27ab968edebc,,

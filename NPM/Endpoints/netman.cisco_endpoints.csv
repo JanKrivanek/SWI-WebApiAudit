@@ -1,0 +1,5 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,ApicController,GetApicPollingState,HttpGet,None,no,Web2\SolarWinds.Orion.NetMan.Cisco.WebApi\Controllers\ApicController.cs,57,81,88b7a3e0051020c8ea9cf9fe86c2a541204543c256040a129b9c5705b8b42e49,,
+no,,ApicController,GetDataForWarningMessage,HttpGet,None,no,Web2\SolarWinds.Orion.NetMan.Cisco.WebApi\Controllers\ApicController.cs,27,50,33cf9ca38f1aa84d61016c361839b336d5d7c85b5da0518cc17f94c6ca457486,,
+no,,CredentialsValidationController,ValidateCredentials,HttpPost,None,no,Lib\SolarWinds.NetMan.Cisco.Web\Controllers\CredentialsValidationController.cs,45,50,8855639ec5d06c1354ca57842109bdf43a9cdc025c4125dea81475642ba296db,,
+no,,CredentialsValidationController,ValidateCredentialsForEngine,HttpPost,None,no,Lib\SolarWinds.NetMan.Cisco.Web\Controllers\CredentialsValidationController.cs,37,43,52ac81ec2b8204cfa4689c3ff2783a9cbad618c6c2637485aba357439f6fa9cc,,

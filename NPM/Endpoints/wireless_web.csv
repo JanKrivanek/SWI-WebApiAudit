@@ -1,0 +1,9 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,WirelessSummary,CustomPropertyList,Asp.net WebMethod,None,,Orion\Wireless\Services\WirelessSummary.asmx,450,473,f26d742f678c23d6f024aa2d1e8d068fc173e055b35173c916598cdf5e3a3ef9,,
+no,,WirelessSummary,GetAPs,Asp.net WebMethod,None,,Orion\Wireless\Services\WirelessSummary.asmx,208,239,a4986696e80f0b63faf5f6211840ea5c67ad5207da78cdc7ab336d90d5141aba,,
+no,,WirelessSummary,GetAPsSearch,Asp.net WebMethod,None,,Orion\Wireless\Services\WirelessSummary.asmx,357,375,07c43bd4e79bcb5d292c6f72a35bd31f992134df9ddd301128301255d15a3196,,
+no,,WirelessSummary,GetAPsWhere,Asp.net WebMethod,None,,Orion\Wireless\Services\WirelessSummary.asmx,330,354,7c6e5e9f0726e5b97a66f092e7f29f7b3aa573110d0bad271bcb0ccfb9682469,,
+no,,WirelessSummary,GetClients,Asp.net WebMethod,None,,Orion\Wireless\Services\WirelessSummary.asmx,155,168,991e75080ed21b755f0132b33e9e09ee943747625c715ea014bd980e155ee285,,
+no,,WirelessSummary,GetClientsSearch,Asp.net WebMethod,None,,Orion\Wireless\Services\WirelessSummary.asmx,176,192,23e561560f08e2f5241627950ce8ed69a65299362fc0ed0bf02fc4af77fef0a0,,
+no,,WirelessSummary,GroupByControllers,Asp.net WebMethod,None,,Orion\Wireless\Services\WirelessSummary.asmx,504,539,1b7bc898517831c2aaf7728e591194ad9ff107620a6aa3edcf1419be275e5d2a,,
+no,,WirelessSummary,GroupByList,Asp.net WebMethod,None,,Orion\Wireless\Services\WirelessSummary.asmx,420,447,b7295b8dee91e617113a96cd752da30cf8353c67e612961f8b3d166579e4a696,,

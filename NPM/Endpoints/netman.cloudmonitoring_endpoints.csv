@@ -1,0 +1,4 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,NetManCloudMonitoringController,CreateOrUpdateAccount,HttpPut,None,no,Web2\SolarWinds.Orion.NetMan.CloudMonitoring.WebApi\Controllers\NetmanCloudMonitoringController.cs,22,24,a273edff7be9c97d831c2d16cf63e0575cbeb8e5a2c3f9a768bd081d44d5a0a8,,
+no,,NetManCloudMonitoringController,IsAnyAccountWithVirtualNetworkGatewaysMonitoringEnabled,HttpGet,None,no,Web2\SolarWinds.Orion.NetMan.CloudMonitoring.WebApi\Controllers\NetmanCloudMonitoringController.cs,26,28,a936436dd0c4b4e21344a0a15edc394c18f11b0853eff23473e70a32b2e387d0,,
+no,,NetManCloudMonitoringController,LoadAccount,HttpGet,None,no,Web2\SolarWinds.Orion.NetMan.CloudMonitoring.WebApi\Controllers\NetmanCloudMonitoringController.cs,18,20,be049b69886b0c179ff069b364c22fda76efd9a4e0ef1c4c1e1c0c646bd0b684,,

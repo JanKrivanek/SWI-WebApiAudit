@@ -1,0 +1,3 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,InterfacesController,GetQueryResults,HttpPost,None,no,Web2\SolarWinds.Orion.Interfaces.WebApi\Controllers\InterfacesController.cs,29,53,b60e3a045bf3c693ed40059260170b4ae5ba245096613fd248490629a3dff956,,
+no,,InterfacesController,GetQueryResultsWithoutItems,HttpPost,None,no,Web2\SolarWinds.Orion.Interfaces.WebApi\Controllers\InterfacesController.cs,62,86,05fdf8270a1e46c299d8e08e87fd9479c2c7e6967889ca0e3016c52bf610d180,,

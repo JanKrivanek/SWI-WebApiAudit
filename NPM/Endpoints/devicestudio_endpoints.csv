@@ -1,0 +1,13 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,ThwackPollersController,CancelTest,HttpPost,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,270,275,67a67c57e2e95ef122ed7cbdf17569007a63f83f30e39c6813cdbeeaf284dbdb,,
+no,,ThwackPollersController,Get,HttpGet,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,104,124,ec04e773e3e64206d4474597389e41b9b8d72da4b23bf18547d656b0f39b20af,,
+no,,ThwackPollersController,GetPollerDescription,HttpGet,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,284,301,e3925648f27d3335f88250957cfffffc8c692dbcd69e2a313718bdb85300d570,,
+no,,ThwackPollersController,GetPollerResult,HttpPost,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,303,316,c96a9333f45a83a22106333f9b6bd2a6308ec636b23a94c7e1b74adeaba6b2f9,,
+no,,ThwackPollersController,GetProgress,HttpPost,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,264,268,86d203d21f8047d5857a09fb8b013f3c654449270a2e64c45b8c478018c642df,,
+no,,ThwackPollersController,GetResults,HttpPost,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,277,282,d7a2ace9c51984d9bd977166c0bec55b192479fec5e060a7ed3c24c81be926fd,,
+no,,ThwackPollersController,GetThwackPollerGroupValues,HttpGet,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,126,152,00ad3c65cc6ec2a42da53e605d2b174f3c206a4b0e73896e8b16a7913e84f6c8,,
+no,,ThwackPollersController,ImportDeviceKit,HttpPost,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,166,214,b4e6076ad4ebf48b2924a21797ef714fb1d18bc91e55bf5fa79f72363b9e30eb,,
+no,,ThwackPollersController,InstallPoller,HttpPost,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,318,345,d8467046672255148463e54b6ac1cc20bd7f2391194c320baf90a6b42fd71ff9,,
+no,,ThwackPollersController,SaveDeviceKit,HttpPost,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,216,242,07793923dce11ee5007218e43e3a72a3e6f3411f0551a67cd2f51ec8231e2a0e,,
+no,,ThwackPollersController,StoreCredentials,HttpPost,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,154,164,1c8e85030502ac19b9b030b02d9868babc118a390a90f0810fa8a311efb5db8b,,
+no,,ThwackPollersController,TestKit,HttpPost,None,no,Lib\SolarWinds.DeviceStudio.Web\Controllers\ThwackPollersController.cs,244,262,cca822e1bb4ff123a372d0039ffa46e7307db54d4ba1cfedb975deeee643549a,,

@@ -1,0 +1,5 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,NexusVpcController,Get,HttpPost,None,no,Web2\SolarWinds.Orion.Nexus.Vpc.Web.WebApi\Controllers\NexusVpcController.cs,29,55,264449765cd3c31d583f4d77f80e027573cb9ec7a350b1b8a59a5fa2ad396abd,,
+no,,NexusVpcController,GetWithoutItems,HttpPost,None,no,Web2\SolarWinds.Orion.Nexus.Vpc.Web.WebApi\Controllers\NexusVpcController.cs,63,90,66752b01da7b176e11934f71bfda6405b2b932b39e3dfe4bd1f4843b0d70fda0,,
+no,,NexusVpcController,IsInterfacesMonitoringSupported,HttpGet,None,no,Web2\SolarWinds.Orion.Nexus.Vpc.Web.WebApi\Controllers\NexusVpcController.cs,92,109,142603497e3540988033ee2881e030bff1067564f5837ebb7d34f3800a444978,,
+no,,NexusVpcHelperController,GetHelpUrl,HttpGet,None,no,Web2\SolarWinds.Orion.Nexus.Vpc.Web.WebApi\Controllers\NexusVpcHelperController.cs,25,51,bffcd9a0895fd6b61bd7f9250c50df1ee774417d6a10982cdc325320654890db,,

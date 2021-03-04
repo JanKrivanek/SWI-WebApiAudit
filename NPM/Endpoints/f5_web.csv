@@ -1,0 +1,3 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,F5ChartData,Connections,Asp.net WebMethod,None,,Orion\F5\Services\F5ChartData.asmx,26,52,762bce7f217ad2aeb9e0e633dae4449aef888985c27df3558c2eef26c7455b52,,
+no,,F5ChartData,Throughput,Asp.net WebMethod,None,,Orion\F5\Services\F5ChartData.asmx,54,80,23faca76588d3dcd313bfacb1c32935c3a0b893a4db249ecaf9416f9ab9c9228,,

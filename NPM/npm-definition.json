@@ -1,0 +1,172 @@
+﻿[
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/npm/npm.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"Sources/Src/Web",
+      "Solution":"Sources/NPM.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/npm/netpath.git",
+      "PackagesRestore":"Build/Install-NuGetPackages.bat",
+      "Branch":"master",
+      "Web":"Src/Web2",
+      "Solution":"NetPath.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/interfaces.git",
+      "PackagesRestore":"Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"Src/Web",
+      "Solution":"Src/SolarWinds.Interfaces.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/interfaces.discovery.git",
+      "PackagesRestore":"Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"Src/Web",
+      "Solution":"Src/SolarWinds.Interfaces.Discovery.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/interfaces.snmp.git",
+      "PackagesRestore":"Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"",
+      "Solution":"Src/SolarWinds.Interfaces.SNMP.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/cortex.interfaces.git",
+      "PackagesRestore":"plugin/build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"",
+      "Solution":"plugin/SolarWinds.CortexPlugin.Orion.Interfaces.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/devicestudio.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"",
+      "Solution":"sources/src/Solarwinds.DeviceStudio.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/devicestudiotechnologies.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"",
+      "Solution":"sources/src/SolarWinds.DeviceStudioTechnologies.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/f5.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"sources/src/web",
+      "Solution":"sources/src/SolarWinds.F5.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/wireless.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"sources/src/web",
+      "Solution":"sources/src/SolarWinds.Wireless.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/wireless.heatmaps.git",
+      "PackagesRestore":"Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"src/web",
+      "Solution":"src/SolarWinds.Wireless.Heatmaps.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/nexus.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"sources/src/web",
+      "Solution":"sources/src/SolarWinds.Nexus.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/nexus.vpc.web.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"sources/src/web",
+      "Solution":"sources/src/SolarWinds.Nexus.Vpc.Web.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/netman.cisco.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"sources/src/web",
+      "Solution":"Sources/Src/SolarWinds.Orion.NetMan.Cisco.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/netman.firewalls.git",
+      "PackagesRestore":"Orion/Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"Orion/Sources/Src/Web",
+      "Solution":"Orion/Sources/Src/SolarWinds.Orion.NetMan.Firewalls.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/netman.shared.git",
+      "PackagesRestore":"Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"",
+      "Solution":"src/SolarWinds.CortexPlugin.NetMan.Shared.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/netman.shared.automation.git",
+      "PackagesRestore":"Specs/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"",
+      "Solution":"Specs/SolarWinds.NetMan.Shared.Automation.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/netman.shared.ui.git",
+      "PackagesRestore":"api/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"",
+      "Solution":"api/src/NetMan.Shared.Ui.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/netman.cloudmonitoring.git",
+      "PackagesRestore":"Orion/Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"Orion/Sources/Src/Web",
+      "Solution":"Orion/Sources/Src/SolarWinds.Orion.NetMan.CloudMonitoring.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/deviceview.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"",
+      "Solution":"Sources/src/SolarWinds.DeviceView.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/netman.utils.git",
+      "PackagesRestore":"Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"",
+      "Solution":"src/SolarWinds.Orion.Netman.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/asa.git",
+      "PackagesRestore":"Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"src/web",
+      "Solution":"SolarWinds.ASA.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/orchestrators.meraki.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"Sources/src/web",
+      "Solution":"Sources/src/SolarWinds.Orion.Orchestrators.Meraki.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/pac/orchestrators.velocloud.git",
+      "PackagesRestore":"Sources/Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"Sources/src/web",
+      "Solution":"Sources/src/SolarWinds.Orchestrators.VeloCloud.sln"
+   }
+   
+   
+]

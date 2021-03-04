@@ -1,0 +1,7 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,WirelessClientsController,GetAPsOnMap,HttpPost,None,no,Lib\SolarWinds.Wireless.Heatmaps.Web\Controllers\WirelessClientsController.cs,222,244,495cedb1c9fa8469b43ff2699d978779817d5c66d0aad55b7d47ac2604e797d4,,
+no,,WirelessClientsController,GetClientLimitationSettings,HttpGet,None,no,Lib\SolarWinds.Wireless.Heatmaps.Web\Controllers\WirelessClientsController.cs,170,204,6c5c66fad1c60d5110fc707b7af3ba79e33fe2b3478cd44812f9242050677cc9,,
+no,,WirelessClientsController,GetClients,HttpPost,None,no,Lib\SolarWinds.Wireless.Heatmaps.Web\Controllers\WirelessClientsController.cs,128,149,bafb949e8c8c439ff4eb3155b79c731b34b539fbab9852462ffb276c65875686,,
+no,,WirelessClientsController,GetClientsOnMap,HttpPost,None,no,Lib\SolarWinds.Wireless.Heatmaps.Web\Controllers\WirelessClientsController.cs,246,279,e8e488461e20388121f63732bc8f0837d83c6916f7554da5b789bec230f06760,,
+no,,WirelessClientsController,StoreClientLimitationSettings,HttpPost,None,no,Lib\SolarWinds.Wireless.Heatmaps.Web\Controllers\WirelessClientsController.cs,206,220,d72027f3b945fd7623266a3d1f9c2a9db8419399ddc70bc08532dfa34234242c,,
+no,,WirelessClientsController,StoreMapSettings,HttpPost,None,no,Lib\SolarWinds.Wireless.Heatmaps.Web\Controllers\WirelessClientsController.cs,151,168,b3a2ba5775b4f1f15c0b0c480c2353ea6c363cb85ee56e4f802f8448f45eaea4,,

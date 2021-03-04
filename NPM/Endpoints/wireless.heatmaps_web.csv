@@ -1,0 +1,3 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,WLHMImageHandler,ProcessRequest,Asp.net HttpHandler,Unknown,,Orion\WirelessHeatmaps\Resources\WLHM\WLHMImageHandler.ashx,12,190,bbc8ce2d453824a84d3a8d5a101d229643f835065a7782e76190f08393490051,,
+no,,WLHMThumbnailHandler,ProcessRequest,Asp.net HttpHandler,Unknown,,Orion\WirelessHeatmaps\Resources\WLHM\WLHMThumbnailHandler.ashx,14,68,b6d836a8668dc1adc37c84ea6858d3374167da25b66db98e509fff500f2c35f0,,
