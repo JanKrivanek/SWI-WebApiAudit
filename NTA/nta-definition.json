@@ -1,0 +1,38 @@
+﻿[
+	{
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/nta/nta.git",
+      "PackagesRestore":"Build/buildTrigger.bat Install-NuGetPackages",
+      "Branch":"master",
+      "Web":"Src/Web",
+      "Solution":"src/NTA.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/nta/fusion-manageipgroups.git",
+      "PackagesRestore":"Api/Build/Install-NuGetPackages.bat",
+      "Branch":"master",
+      "Web":"api/src/Web",
+      "Solution":"api/src/Solarwinds.Orion.NTA.IPGroupsManagement.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/nta/fusion-cbqossources.git",
+      "PackagesRestore":"Api/Build/Install-NuGetPackages.bat",
+      "Branch":"master",
+      "Web":"api/src/Web",
+      "Solution":"api/src/Solarwinds.Orion.NTA.CBQoSSources.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/nta/fusion-flowanalytics.git",
+      "PackagesRestore":"Api/Build/Install-NuGetPackages.bat",
+      "Branch":"master",
+      "Web":"api/src/Web",
+      "Solution":"api/src/Solarwinds.Orion.NTA.FlowAnalytics.sln"
+   },
+   {
+      "Repository":"ssh://git@bitbucket.solarwinds.com:7999/nta/fusion-flowsources.git",
+      "PackagesRestore":"Api/Build/Install-NuGetPackages.bat",
+      "Branch":"master",
+      "Web":"api/src/Web",
+      "Solution":"api/src/Solarwinds.Orion.NTA.FlowSources.sln"
+   }
+   
+]

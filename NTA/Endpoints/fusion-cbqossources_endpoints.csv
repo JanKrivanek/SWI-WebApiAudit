@@ -1,0 +1,3 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,CBQoSSourcesController,SetFlowSourceDisabled,HttpPost,None,no,Web\SolarWinds.Orion.NTA.CBQoSSources.WebApi\Controllers\CBQoSSourcesController.cs,49,52,0b63d22a8a04bdd3ef80a7cf22239e61568ad53958776752dfcf83f49850f8a6,,
+no,,CBQoSSourcesController,SetFlowSourceEnabled,HttpPost,None,no,Web\SolarWinds.Orion.NTA.CBQoSSources.WebApi\Controllers\CBQoSSourcesController.cs,44,47,3da3f90db61749a5e1199157e2ca7273c0ceee00507ac4d69cc42b59d417addc,,

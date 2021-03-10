@@ -1,0 +1,6 @@
+Approved,Comment,TypeName,Name,ProtocolDetail,RequiredRole,AllowedInOrionDemo,File,StartLine,EndLine,ImplSha256,GitPath,Revision
+no,,ConfigureNodeController,GetInterfaces,HttpGet,None,no,Web\SolarWinds.Orion.NTA.FlowSources.WebApi\Controllers\ConfigureNodeController.cs,30,71,1063dcbb9b16b3e112688cf6de40313efb86e043e7aee203a7c1d2327e17064d,,
+no,,ConfigureNodeController,SetExporterDirection,HttpPost,None,no,Web\SolarWinds.Orion.NTA.FlowSources.WebApi\Controllers\ConfigureNodeController.cs,73,95,b32e3e655e7dfc1e99f658d193e2e4e9d1492cf5e8a74cb9800c250bba89df2d,,
+no,,FlowSourcesController,SetFlowSamplingRate,HttpPost,None,no,Web\SolarWinds.Orion.NTA.FlowSources.WebApi\Controllers\FlowSourcesController.cs,37,74,77084df2f49e4177f0b7f7a4727138ba48ff16b785e55be7c4de1e00a771e863,,
+no,,FlowSourcesController,SetFlowSourceDisabled,HttpPost,None,no,Web\SolarWinds.Orion.NTA.FlowSources.WebApi\Controllers\FlowSourcesController.cs,32,35,4101efa254d05791a219ad6038a9ae03d11b2094d448b674d4310f0ed55c57fd,,
+no,,FlowSourcesController,SetFlowSourceEnabled,HttpPost,None,no,Web\SolarWinds.Orion.NTA.FlowSources.WebApi\Controllers\FlowSourcesController.cs,27,30,152383d6f7c01adb6c1e4bf8ecef5a8392de4dbf6da5e16d316be922dafcb674,,
